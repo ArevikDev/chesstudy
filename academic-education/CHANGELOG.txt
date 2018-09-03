@@ -1,0 +1,23 @@
+Version 0.1
+	i. Initial version Released.
+
+Version 0.2
+	i.   Reolved Error.
+	ii.  Done responsive menu css.
+	iii. Resolved the translation error in footer.
+	iv.  Added image tag in page template.
+
+Version 0.2.1
+	i.   Added the License information of image url with given format.
+	ii.  Resolved the console error of customizer.js 
+	iii. Added the theme url.
+
+Version 0.2.2
+	i.   Changed esc_attr_x to esc_html_x in searchform.php.
+	ii.  Done the text capital of class.
+	iii. include post format tag.
+	iv.  Added updated bootstrap file. 
+
+Version 0.2.3
+	i.   Added Typography.
+	ii.  Added Potfile.
